@@ -1,0 +1,4 @@
+G:\17ce025\Practical1\Practical1\bin\Debug\Practical1.exe
+G:\17ce025\Practical1\Practical1\bin\Debug\Practical1.pdb
+G:\17ce025\Practical1\Practical1\obj\x86\Debug\Practical1.exe
+G:\17ce025\Practical1\Practical1\obj\x86\Debug\Practical1.pdb
